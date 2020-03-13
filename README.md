@@ -1,4 +1,4 @@
-#r-osaces
+# r-osaces
 
 Le script `r-osaces.R` présent dans ce dossier permet de réaliser des cartes sous forme de rosaces où chaque pétale représente une variable.
 
