@@ -1,6 +1,6 @@
 # r-osaces
 
-Le script `r-osaces.R` présent dans ce dossier permet de réaliser des cartes sous forme de rosaces où chaque pétale représente une variable.
+Le script `r-osaces.R` permet de réaliser des cartes sous forme de rosaces où chaque pétale représente une variable.
 
 Sur la carte ci-dessus, les tranches d'âge sont représentées pour chaque département.
 
