@@ -20,5 +20,5 @@ Le script `r-osaces.R` est entièrement reproductible. Vous pourrez l'adapter en
 
 Le fichier `fonctions.R` contient les fonctions R permettant de réaliser les polygones représentant les pétales et rosaces.
 
-# Un peu de technique
+## Un peu de technique
 La librairie [`packcircles`](https://cran.r-project.org/web/packages/packcircles/index.html) est utilisée pour les cartogrammes de cercles, et le script intègre quelques éléments rudimentaires de trigonométrie pour faire les rosaces.
